@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bryan\\Desktop\\Actividad entregable\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj": {}
+    "C:\\Users\\bryan\\Desktop\\Actividad entregablexd\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\bryan\\Desktop\\Actividad entregable\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj": {
+    "C:\\Users\\bryan\\Desktop\\Actividad entregablexd\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bryan\\Desktop\\Actividad entregable\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj",
+        "projectUniqueName": "C:\\Users\\bryan\\Desktop\\Actividad entregablexd\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj",
         "projectName": "Actividad entregable",
-        "projectPath": "C:\\Users\\bryan\\Desktop\\Actividad entregable\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj",
+        "projectPath": "C:\\Users\\bryan\\Desktop\\Actividad entregablexd\\Actividad entregable\\Actividad entregable\\Actividad entregable.vbproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bryan\\Desktop\\Actividad entregable\\Actividad entregable\\Actividad entregable\\obj\\",
+        "outputPath": "C:\\Users\\bryan\\Desktop\\Actividad entregablexd\\Actividad entregable\\Actividad entregable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
